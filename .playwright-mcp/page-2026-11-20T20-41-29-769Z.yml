@@ -1,0 +1,5 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - heading "DevPomo" [level=1] [ref=e5]
+    - textbox "Search by title or id..." [ref=e10]
+    - paragraph [ref=e12]: No tasks found
